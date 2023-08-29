@@ -6,7 +6,7 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Tugasan I : Seruan Perwira](https://github.com/OP-dash/BahteraSiber2023/blob/main/TugasanUtamaI.md) | - |
+  | [Tugasan I : Seruan Perwira](https://github.com/OP-dash/BahteraSiber2023/blob/main/TugasanUtamaI.md ) | - |
   | [Tugasan II : Tali Barut](#) | - |
   | [Warkah Akhir](#) | - |
   
