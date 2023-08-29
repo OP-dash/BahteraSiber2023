@@ -6,9 +6,9 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Tugasan I : Seruan Perwira](https://github.com/OP-dash/BahteraSiber2023/blob/main/TugasanUtamaI.md ) | - |
-  | [Tugasan II : Tali Barut](#) | - |
-  | [Warkah Akhir](#) | - |
+  | [Tugasan I : Seruan Perwira](https://github.com/OP-dash/BahteraSiber2023/blob/main/TugasanUtamaI.md) | - |
+  | [Tugasan II : Tali Barut](https://github.com/OP-dash/BahteraSiber2023/blob/main/TugasanUtama2.md) | - |
+  | [Warkah Akhir](https://github.com/OP-dash/BahteraSiber2023/blob/main/WarkahAkhir.md) | - |
   
 </details>
 
@@ -17,8 +17,8 @@
     
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Lemah](#) | Mudah |
-  | [Wantujus](#) | Mudah |
+  | [Lemah](https://github.com/OP-dash/BahteraSiber2023/blob/main/Lemah.md) | Mudah |
+  | [Wantujus](https://github.com/OP-dash/BahteraSiber2023/blob/main/Wantujus.md) | Mudah |
   | [Wantusom](#) | Mudah |
 </details>
 
@@ -27,9 +27,9 @@
     
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Tugu Negara](#) | Sederhana |
-  | [Bangsal 1](#) | Sederhana |
-  | [Bangsal 2](#) | Sederhana |
+  | [Tugu Negara](https://github.com/OP-dash/BahteraSiber2023/blob/main/KeretapiTanahMelayu.md) | Sederhana |
+  | [Bangsal 1](https://github.com/OP-dash/BahteraSiber2023/blob/main/Bangsal1.md) | Sederhana |
+  | [Bangsal 2](https://github.com/OP-dash/BahteraSiber2023/blob/main/Bangsal2.md) | Sederhana |
 </details>
 
 <details>
@@ -37,7 +37,7 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Sarawak](#) | Mudah |
+  | [Sarawak](https://github.com/OP-dash/BahteraSiber2023/blob/main/Sarawak.md) | Mudah |
 </details>
   
 <details>
@@ -45,11 +45,11 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Nasihat](#) | Mudah |
-  | [Keretapi Tanah Melayu](#) | Mudah |
-  | [Selamat Malam](#) | Sederhana |
-  | [Jerebu](#) | Sederhana |
-  | [1957bit](#) | Sederhana |
+  | [Nasihat](https://github.com/OP-dash/BahteraSiber2023/blob/main/Nasihat.md) | Mudah |
+  | [Keretapi Tanah Melayu](https://github.com/OP-dash/BahteraSiber2023/blob/main/KeretapiTanahMelayu.md) | Mudah |
+  | [Selamat Malam](https://github.com/OP-dash/BahteraSiber2023/blob/main/SelamatMalam.md) | Sederhana |
+  | [Jerebu](https://github.com/OP-dash/BahteraSiber2023/blob/main/Jerebu.md) | Sederhana |
+  | [1957bit](https://github.com/OP-dash/BahteraSiber2023/blob/main/1957bit.md) | Sederhana |
 </details>
 
 <details>
@@ -59,7 +59,7 @@
   | --- | --- |
   | [Johan](#) | Mudah |
   | [Lagi-lagi Johan](#) | Mudah |
-   | [Jalan Jalan Di Kuala Lumpur](#) | Mudah |
+  | [Jalan Jalan Di Kuala Lumpur](#) | Mudah |
 </details>
 
 <details>
