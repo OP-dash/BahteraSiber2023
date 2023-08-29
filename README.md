@@ -88,7 +88,7 @@
   | [Pertemuan Kapista : Babak II](https://github.com/OP-dash/BahteraSiber2023/blob/main/PertemuanKapistaII.md) | Mudah |
   | [Pertemuan Kapista : Finale](https://github.com/OP-dash/BahteraSiber2023/blob/main/PertemuanKapistaIII.md) | Mudah |
   | [Hero Melayu](https://github.com/OP-dash/BahteraSiber2023/blob/main/HeroMelayu.md) | Mudah |
-  | [Kisah Lama](#) | Mudah |
+  | [Kisah Lama](https://github.com/OP-dash/BahteraSiber2023/blob/main/KisahLama.md) | Mudah |
   | [Mesej Dalam Botol](https://github.com/OP-dash/BahteraSiber2023/blob/main/MesejDalamBotol.md) | Sederhana |
 </details>
 
