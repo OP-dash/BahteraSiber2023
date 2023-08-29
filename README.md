@@ -57,9 +57,9 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Johan](#) | Mudah |
-  | [Lagi-lagi Johan](#) | Mudah |
-  | [Jalan Jalan Di Kuala Lumpur](#) | Mudah |
+  | [Johan](https://github.com/OP-dash/BahteraSiber2023/blob/main/Johan.md) | Mudah |
+  | [Lagi-lagi Johan](https://github.com/OP-dash/BahteraSiber2023/blob/main/LagilagiJohan.md) | Mudah |
+  | [Jalan Jalan Di Kuala Lumpur](https://github.com/OP-dash/BahteraSiber2023/blob/main/JalanJalanDiKualaLumpur.md) | Mudah |
 </details>
 
 <details>
@@ -67,7 +67,7 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Mencari Rahsia Si Dia](#) | Mudah |
+  | [Mencari Rahsia Si Dia](https://github.com/OP-dash/BahteraSiber2023/blob/main/MencariRahsia.md) | Mudah |
   | [3108 CTF Town](#) | Sederhana |
   </details>
 
@@ -76,7 +76,7 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Negeri-Negeri Di Malaysia](#) | Mudah |
+  | [Negeri-Negeri Di Malaysia](https://github.com/OP-dash/BahteraSiber2023/blob/main/NegeriNegeriDiMalaysia.md) | Mudah |
   </details>
 
 <details>
@@ -84,12 +84,12 @@
 
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [Pertemuan Kapista : Babak I](#) | Mudah |
-  | [Pertemuan Kapista : Babak II](#) | Mudah |
-  | [Pertemuan Kapista : Finale](#) | Mudah |
-  | [Hero Melayu](#) | Mudah |
+  | [Pertemuan Kapista : Babak I](https://github.com/OP-dash/BahteraSiber2023/blob/main/PertemuanKapistaI.md) | Mudah |
+  | [Pertemuan Kapista : Babak II](https://github.com/OP-dash/BahteraSiber2023/blob/main/PertemuanKapistaII.md) | Mudah |
+  | [Pertemuan Kapista : Finale](https://github.com/OP-dash/BahteraSiber2023/blob/main/PertemuanKapistaIII.md) | Mudah |
+  | [Hero Melayu](https://github.com/OP-dash/BahteraSiber2023/blob/main/HeroMelayu.md) | Mudah |
   | [Kisah Lama](#) | Mudah |
-  | [Mesej Dalam Botol](#) | Sederhana |
+  | [Mesej Dalam Botol](https://github.com/OP-dash/BahteraSiber2023/blob/main/MesejDalamBotol.md) | Sederhana |
 </details>
 
 <details>
@@ -97,9 +97,9 @@
    
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
-  | [YAYASAN DIGITAL MALAYSIA](#)
-  | [RE:HACK](#)
-  | [TENANG KOMUNITI](#)
-  | [ASK PENTEST](#)
-  | [SCAMGATE](#)
+  | [YAYASAN DIGITAL MALAYSIA](https://github.com/OP-dash/BahteraSiber2023/blob/main/YayasanDigitalMalaysia.md)
+  | [RE:HACK](https://github.com/OP-dash/BahteraSiber2023/blob/main/RE%3AHACK.md)
+  | [TENANG KOMUNITI](https://github.com/OP-dash/BahteraSiber2023/blob/main/TenangKomuniti.md)
+  | [ASK PENTEST](https://github.com/OP-dash/BahteraSiber2023/blob/main/AskPentest.md)
+  | [SCAMGATE](https://github.com/OP-dash/BahteraSiber2023/blob/main/Scamgate.md)
   </details>
