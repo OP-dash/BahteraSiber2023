@@ -68,7 +68,7 @@
   | Tugasan | Tahap Kesukaran |
   | --- | --- |
   | [Mencari Rahsia Si Dia](https://github.com/OP-dash/BahteraSiber2023/blob/main/MencariRahsia.md) | Mudah |
-  | [3108 CTF Town](#) | Sederhana |
+  | [3108 CTF Town](https://github.com/OP-dash/BahteraSiber2023/blob/main/3108CTFTown.md) | Sederhana |
   </details>
 
   <details>
